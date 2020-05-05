@@ -1,0 +1,109 @@
+body {
+   
+ 
+    background-color:gainsboro
+    
+   
+}
+ table{
+     margin-top: 15px;
+     padding-left: 200px;
+ }
+
+th {
+    
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-family: 'Noto Sans', sans-serif;
+    color: darkblue;
+    cursor: pointer;
+    
+}
+
+
+header {
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #bec7c6
+}
+.email {
+    color:darkblue;
+    font-size: 15px;  
+}
+
+.inputAndButton{
+    margin-top:40px
+}
+
+
+.searchBttn{
+    margin-top:40px;
+    border-radius: 20px;;
+    letter-spacing: 1px !important;;
+    font-size:10px ;
+    background-color: lightblue;
+}
+
+
+img {
+    border-radius: 70%;  
+ }
+
+
+
+ .headerText {
+    letter-spacing: 1px;
+    font-size: 60px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: lighter;  
+    color: darkblue;
+    text-align: center;
+    padding-top: 20px;
+ }
+
+ input:focus, input.form-control:focus {
+
+    outline:none !important;
+    outline-width: 0 !important;
+    box-shadow:none !important;;
+    -moz-box-shadow: none !important;;
+    -webkit-box-shadow: none !important;;
+   
+}
+input {
+    
+color: gray !important;
+   
+}
+ .smallerHeaderText{
+   color: white;
+   font-family: 'Noto Sans', sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 0px;
+   
+font-weight: lighter;
+  
+    
+    
+    margin-top: 0;
+ }
+
+
+ .tableEmployee{
+     margin-left: 40px;
+     margin-right: 40px;
+     padding: 0px;
+     font-family: 'Noto Sans', sans-serif;
+     
+    
+ }
+
+
+ 
+  td {
+      font-size: 16px;
+      letter-spacing: 0.5px;
+      font-family: 'Noto Sans', sans-serif;
+      font-weight: bold;
+    
+  }
